@@ -1,7 +1,7 @@
 from kmer_mutation_formulas_thm5 import confidence_interval_r1_from_n_mutated
 import math
 
-L = 10000
+L = 100000
 k = 41
 alpha = 0.05
 
